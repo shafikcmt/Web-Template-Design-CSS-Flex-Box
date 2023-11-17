@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: aqua;
+}
+.layout{
+    width: 960px;
+    margin: 0 auto;
+}
+#row1{
+    height: 60px;
+    width: 100%;
+    background-color: white;
+}
+.header_section{
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{}
+.logo h3{}
+.logo{}
+.menu ul{
+    display: flex;
+   
+}
+.menu ul li {
+    padding-left: 30px;
+    list-style: none;
+}
+.menu ul li a{
+    text-decoration: none;
+}
+.blog_btn{}
+.search_bar{}
+.search_bar input{}
+.search_bar i{}
