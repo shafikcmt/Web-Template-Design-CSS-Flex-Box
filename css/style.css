@@ -40,3 +40,36 @@ body{
 .search_bar{}
 .search_bar input{}
 .search_bar i{}
+
+/* *************ROW2***************** */
+#row2{
+    height: 500px;
+    width: 100%;
+    background: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner_section{
+    width: 80%;
+    color: #fff;
+    text-align: center;
+}
+.banner_section h1{
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.banner_section p{
+    text-align: justify;
+    padding-bottom: 20px;
+}
+.banner_section button{
+    padding: 10px 20px;
+    background-color: orange;
+    border: none;
+    border-radius: 10px;
+    
+}
