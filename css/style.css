@@ -73,3 +73,41 @@ body{
     border-radius: 10px;
     
 }
+
+/* ***************Feature Section*************** */
+#row3{
+    height: 360px;
+    background-color: white;
+
+}
+.secvice_section{}
+.secvice_section h3{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.service_container{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.service_item{
+    text-align: center;
+}
+.service_item i{
+    height: 80px;
+    width: 80px;
+    background-color: skyblue;
+    border-radius: 50%;
+    line-height: 80px;
+    font-size: 30px;
+}
+.service_item h4{
+    padding-top: 20px;
+}
+.service_item p{
+    text-align: center;
+}
